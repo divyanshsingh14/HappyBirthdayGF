@@ -18,6 +18,12 @@ body {
     overflow: hidden;
     position: relative;
 }
+p{
+    background-color:black;
+    color: white;
+    font-family: 'Arial Rounded MT Bold', Arial, sans-serif;
+    
+}
 
 .cursor {
     width: 20px;
